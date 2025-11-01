@@ -82,7 +82,7 @@ If you discover exposed credentials:
 
 ## Contributing
 
-Pull requests should maintain ethical security research standards and legal compliance. Update documentation to reflect any changes.
+Pull requests should maintain ethical security research standards and legal compliance.
 
 ## License
 
