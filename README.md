@@ -18,9 +18,9 @@ BreachPeek searches through aggregated breach data (3.2B+ records) to check if c
 - `requests` library
 
 ## Installation
-download or clone this repo
+Download or clone this repo
 ```bash
-cd breachpeek
+cd BreachPeek
 python3 -m pip install requests
 ```
 
