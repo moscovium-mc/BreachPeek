@@ -281,22 +281,6 @@ See [HIBP Pricing](https://haveibeenpwned.com/API/Key) for details on email sear
 - Python 3.7 or higher
 - `requests` library
 
-### Windows-Specific Notes
-- ANSI color codes work in Windows Terminal, PowerShell, and modern CMD
-- Use `python` instead of `python3` on some Windows installations
-- Git Bash may have color rendering issues - use native terminals
-
-### Installation on Windows
-```bash
-# Install Python from python.org or Microsoft Store
-
-# Install requests
-pip install requests
-
-# Run the tool
-python breachpeek.py
-```
-
 ## API Details
 
 **ProxyNova:**
